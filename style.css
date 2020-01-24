@@ -1,0 +1,67 @@
+.main_container {
+    width: 100%;
+
+}
+
+header {
+    overflow: hidden;
+}
+#leftImg {
+    width: 85%;
+    float: left;
+}
+#rightImg {
+    width: 15%;
+    float: left;
+}
+#mainNav {
+    float: left;
+    background-color: darkgrey;
+    height: 300px;
+    width: 30%;
+}
+
+#content{
+
+}
+
+
+.topImage {
+    width: 100%;
+}
+
+#table {
+    width: 100%;
+}
+
+table {
+    width: 100%;
+    border: 5px solid #000000;
+}
+
+table th{
+    background-color: darkslateblue;
+    color: white;
+
+}
+
+#nav2 {
+    width: 100%;
+}
+#nav2 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+}
+#nav2 li {
+    display: inline;
+    padding: 5px 20px;
+    float: left;
+    width: 18%;
+    text-align: center;
+    
+}
+.midNav {
+    border-right:2px solid black;
+    
+}
